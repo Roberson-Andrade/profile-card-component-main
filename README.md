@@ -43,6 +43,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Roberson-Andrade)
+- Frontend Mentor - [@Roberson-Andrade](https://www.frontendmentor.io/profile/Roberson-Andrade)
 - Twitter - [@PrazerRobervalt](https://twitter.com/PrazerRobervalt)
 
